@@ -1,6 +1,6 @@
 <h1 align='center'>Me</h1>
 
-👋 Hi, I’m @CottageCabbage], feel free to reach me through [Twitter](https://twitter.com/CottageCabbage), [Telegram](https://t.me/CottageCabbage) or [Email](CottageCabbage@protonmail.com)
+👋 Hi, I’m @CottageCabbage], feel free to reach me through [Twitter](https://twitter.com/CottageCabbage), [Telegram](https://t.me/CottageCabbage) or [Email](mail:CottageCabbage@protonmail.com)
 
 ## Goals
 Making my own Pomodoro Timer. Still unfamiliar with Typescript & Vue, but will try studying from the repos below, they're my favorites.
