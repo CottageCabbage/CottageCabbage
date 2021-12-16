@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CottageCabbage
+- 👀 I’m interested in baking and reading: bread and horror;
+- 🌱 I’m currently learning Html, Css, Js & Python;
+- 💞️ I’m looking to collaborate on (not really sure);
+- 📫 How to reach me: CottageCabbage@protonmail.com
