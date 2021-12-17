@@ -7,6 +7,8 @@ Making my own Pomodoro Timer. Still unfamiliar with Typescript & Vue, but will t
 + https://github.com/roldanjr/pomatez (Typescript)
 + https://github.com/karimdaghari/pomotroid (Vue)
 + https://github.com/gnome-pomodoro/gnome-pomodoro (Vala?? Never heard about it. Saving just in case)
++ https://github.com/RoderickQiu/wnr (Electron & Vue?)
++ https://github.com/KeziahMoselle/tempus/releases/tag/v1.7.0 (Electron & React)
 
 I'd be really thankful for any other great repo to learn from.
 
