@@ -10,3 +10,6 @@ I like baking and also books. Bread and Cosmic Horror, that is.
 
 ## Learning
 I'm currently going through Coursera's [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) course while trying to finish freeCodeCamp's [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) Projects. As soon as possible, I also will try to start on [The Odin Project](https://www.theodinproject.com/). 
+
+---
++ **2021-12-25:** It's Christmas and I'll be spending time with my family. I personally think an unbroken streak would motivate me more, so I'll cheat this time. Will try not to repeat
