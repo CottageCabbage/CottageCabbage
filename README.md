@@ -4,6 +4,7 @@
 
 ## Goals
 + Making my own Pomodoro Timer. See TomatoSalad repo
++ Diary App, like [this one](https://github.com/samuelmeuli/mini-diary), more markdown.
 
 ## Interests
 I like baking and also books. Bread and Cosmic Horror, that is.
