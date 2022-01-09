@@ -1,10 +1,3 @@
-<div stlye='display: flex; justify-content: space-between;'>
-  <h2>Test</h2>
-  <h2>Test2</h2>
-  <h2>Testa</h2>
-</div>
-
-
 <h1 align='center'>Me</h1>
 
 👋 Hi, I’m @CottageCabbage, feel free to reach me through [Twitter](https://twitter.com/CottageCabbage), [Telegram](https://t.me/CottageCabbage) or Discord (CottageCabbage#2751).
