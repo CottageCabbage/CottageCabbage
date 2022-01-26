@@ -6,12 +6,20 @@ I'm mostly learning the HTML+CSS+JS Package rn, with some Vue too. Check [Tomato
 
 My favorite movie is [Coco (2017)](https://www.imdb.com/title/tt2380307/).
 
-## 📊GitHub Stats :
-<img src='https://github-readme-stats.vercel.app/api?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false' align='center'/>
+## 📊 GitHub Stats :
+<div align='center'>
+	<img src='https://github-readme-stats.vercel.app/api?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false' />
+</div>
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=CottageCabbage&theme=nightowl&hide_border=false' align='center'/>
+<div align='center'>
+	<img src='https://github-readme-streak-stats.herokuapp.com/?user=CottageCabbage&theme=nightowl&hide_border=false' align='center'/>
+</div>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact' align='center'/>
+<div align='center'>
+	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact' align='center'/>
+</div>
 
-## 🏆GitHub Trophies
-<img src='https://github-profile-trophy.vercel.app/?username=CottageCabbage&theme=dracula&no-frame=true&no-bg=false&margin-w=4' align='center'>
+## 🏆 GitHub Trophies
+<div align='center'>
+	<img src='https://github-profile-trophy.vercel.app/?username=CottageCabbage&theme=dracula&no-frame=true&no-bg=false&margin-w=4' align='center'>
+</div>
