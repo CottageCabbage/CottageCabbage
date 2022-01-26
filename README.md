@@ -1,17 +1,21 @@
 <h1 align='center'>About Me</h1>
 
-👋 Hi, I’m @CottageCabbage, feel free to reach me through [Twitter](https://twitter.com/CottageCabbage), [Telegram](https://t.me/CottageCabbage) or Discord (CottageCabbage#2751).
+<p align='center'>Hey there, I'm CottageCabbage.</p>
 
-## Passion Projects
-+ Making my own Pomodoro Timer. See TomatoSalad repo
-+ Diary App, like [this one](https://github.com/samuelmeuli/mini-diary), more markdown.
+I'm mostly learning the HTML+CSS+JS Package rn, with some Vue too. Check [TomatoSalad repo](https://github.com/CottageCabbage/TomatoSalad) for my main project ― a Pomodoro Timer, made with Electron, Vue and JavaScript. As soon as posible, I also plan on starting [The Odin Project's Curriculum](https://www.theodinproject.com/).
 
-+ File/Folder Renamer, replace spaces and comma+spaces with dashes. 
+My favorite movie is [Coco (2017)](https://www.imdb.com/title/tt2380307/).
 
-## Interests
-Baking bread and Cosmic Horror. 
+## 📊GitHub Stats :
 
-## Learning
-I'm currently going through Coursera's [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) course while trying to finish freeCodeCamp's [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) Projects (Also doing the new beta thing too now). 
+<div align='center'>
+![](https://github-readme-stats.vercel.app/api?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CottageCabbage&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-As soon as possible, I also plan on starting [The Odin Project](https://www.theodinproject.com/).
+## 🏆GitHub Trophies
+<div align='center'>
+![](https://github-profile-trophy.vercel.app/?username=CottageCabbage&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+</div>
+
