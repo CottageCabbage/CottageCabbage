@@ -8,15 +8,15 @@ My favorite movie is [Coco (2017)](https://www.imdb.com/title/tt2380307/).
 
 ## 📊 GitHub Stats :
 <div align='center'>
-	<img src='https://github-readme-stats.vercel.app/api?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false' />
+	<img src='https://github-readme-stats.vercel.app/api?username=CottageCabbage&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false' />
 </div>
 
 <div align='center'>
-	<img src='https://github-readme-streak-stats.herokuapp.com/?user=CottageCabbage&theme=nightowl&hide_border=false' align='center'/>
+	<img src='https://github-readme-streak-stats.herokuapp.com/?user=CottageCabbage&theme=nightowl&hide_border=false'/>
 </div>
 
-<div align='center'>
-	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact' align='center'/>
+<div align='center' style='margin-top: 4px;'>
+	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact'/>
 </div>
 
 ## 🏆 GitHub Trophies
