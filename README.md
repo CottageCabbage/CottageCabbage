@@ -8,7 +8,7 @@ My favorite movie is [Coco (2017)](https://www.imdb.com/title/tt2380307/).
 
 ## 📊 GitHub Stats :
 <div align='center'>
-	<img src='https://github-readme-stats.vercel.app/api?username=CottageCabbage&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false' />
+	<img src='https://github-readme-stats.vercel.app/api?username=CottageCabbage&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false' />
 </div>
 
 <div align='center'>
