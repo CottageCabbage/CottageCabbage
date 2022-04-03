@@ -1,18 +1,11 @@
 
 <h1  align='center'>Hey there! Nice to see you.</h1>
 
-
-
 I'm CottageCabbage, a 16 years old from Brazil, currently studying web development and a little bit of computer science on the side.
 
-
-
-I mostly ―read 'exclusively'― commit only to my own repositories, since I'm pretty nervous about pushing bad code, but I'm working on that.
-
-
+I code mostly with Vue. It's a pretty nice Framework.
 
 Pronouns are he/him.
-
 
 
 If you'd like to chat, feel free to contact me:
@@ -39,6 +32,10 @@ I'll probably be slowing down on commits for a while as tests and projects come 
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### Things I want to learn
+- https://tailwindcss.com/
+- https://barba.js.org/
 
 
 ## My Github Stats
