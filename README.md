@@ -1,23 +1,13 @@
 
 <h1  align='center'>Hey there! Nice to see you.</h1>
 
+I'm CottageCabbage, a student from Brazil who fiddles around with Web Development on the side.
 
-
-I'm CottageCabbage, a 16 years old from Brazil, currently studying web development and a little bit of computer science on the side.
-
-
-
-I mostly ―read 'exclusively'― commit only to my own repositories, since I'm pretty nervous about pushing bad code, but I'm working on that.
-
-
+Right now, I'm mostly working on [Vu-dooit], a task manager made with Vue&QUasar.
 
 Pronouns are he/him.
 
-
-
 If you'd like to chat, feel free to contact me:
-
-
 
 <p  align='center'>
 
